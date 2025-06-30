@@ -1,3 +1,11 @@
+"""
+SecureCodingReview – Task 3
+Author: Gutha Srinidhi
+Purpose: Demonstrate vulnerability (vulnerable_app.py)
+         and secure coding (secure_app.py)
+"""
+
+
 import sqlite3
 
 def login():
